@@ -3,7 +3,7 @@
 
 **123usuario/123usuario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 Mi nombre es Alison Danitza Flores Gutierrez
 - 🌱 Estudiante de Ingenieria de Sistemas
